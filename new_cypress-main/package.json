@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "cypress": "^12.7.0",
+    "electron": "^33.2.1"
+  }
+}
